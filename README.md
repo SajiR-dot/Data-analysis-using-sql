@@ -1,1 +1,1 @@
-# Data-analysis-using-sql
+# Data-analysis-using-PostgreS
